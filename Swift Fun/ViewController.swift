@@ -3,8 +3,9 @@
 //  Swift Fun
 //
 //  Created by Nicholas Terry on 4/6/19.
-//  Copyright © 2019 Nicholas Terry. All rights reserved..
+//  Copyright © 2019 Nicholas Terry. All rights reserved.
 //
+//  Hello there
 
 import UIKit
 
@@ -36,7 +37,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     
     }
-
 
 }
 
